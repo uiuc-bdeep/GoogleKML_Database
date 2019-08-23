@@ -23,6 +23,7 @@ The current available data & functions are as followed. All of them have been te
 
 ### Main functions
 * [get_cairo_usr](./R/googlekml.R)
+
 This function is similar to other `get_*_usr` functions available in other BDEEP R packages. For detailed examples, see the one in the BDEEPZillow package.
 
 ```
@@ -36,6 +37,7 @@ This function is similar to other `get_*_usr` functions available in other BDEEP
 ```
 
 * [db_type_converter](./R/converter.R)
+
 To convert data types from database into desired types in R, one can modify this function for easier processing.
 ```
 @description This function converts the type to align with the requirement. See requirement online.
